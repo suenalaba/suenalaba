@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Josh!
 
+---
+
 ⚡ I'm an aspiring software engineer with experience in the technologies listed in the **toolbox** below.
 📫 In addition, I like to build my random ideas, and explore the endless opportunities with technology.
 
@@ -18,13 +20,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
 
 ---
 
-🧰 Toolbox
+# 🧰 Toolbox
 
-🔭 Technologies Used In Past Projects
+## 🔭 Technologies Used In Past Projects
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50"/>
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg" alt="Angular Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript Logo" width="50" height="50"/>
 
-🌱 My current stack & new technologies I'm learning ...
+## 🌱 My current stack & new technologies I'm learning ...
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL Logo" width="50" height="50"/>
