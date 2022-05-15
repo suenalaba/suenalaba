@@ -3,6 +3,7 @@
 ---
 
 ⚡ I'm an aspiring software engineer with experience in the technologies listed in the **toolbox** below.
+
 📫 In addition, I like to build my random ideas, and explore the endless opportunities with technology.
 
 <!--
