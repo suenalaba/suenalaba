@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind Logo" width="50" height="50"/>
+<img src="https://github.com/suenalaba/suenalaba/blob/main/images/Moralis-Logo-LightBG-Large.png" alt="Moralis Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" alt="Solidity Logo" width="50" height="50"/>
 
 ### 📊 Analytics & AI
