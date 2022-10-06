@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### 💻 Web Dev Stack
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" alt="Ionic Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg" alt="Angular Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS Logo" width="50" height="50"/>
+<img src="https://github.com/suenalaba/suenalaba/blob/main/images/Rlogical-Blog-Images-thumbnail.png" alt="NextJS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind Logo" width="50" height="50"/>
 <img src="https://github.com/suenalaba/suenalaba/blob/main/images/Moralis-Logo-LightBG-Large.png" alt="Moralis Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" alt="Solidity Logo" width="50" height="50"/>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
 
-## 🌱 New technologies I'm learning ...
+## 🌱 New technologies I'm learning in 2022 ...
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PSQL Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="Redis Logo" width="50" height="50"/>
