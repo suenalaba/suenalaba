@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind Logo" width="50" height="50"/>
 <img src="https://github.com/suenalaba/suenalaba/blob/main/images/Moralis-Logo-LightBG-Large.png" alt="Moralis Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" alt="Solidity Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS Logo" width="50" height="50"/>
 
 ### 📊 Analytics & AI
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-plain.svg" alt="R Studio" width="50" height="50"/>
@@ -45,8 +46,7 @@ Here are some ideas to get you started:
 
 
 ## 🌱 New technologies I'm learning in 2023 ...
-<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS Logo" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PSQL Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL Logo" width="50" height="50"/><img 
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="Redis Logo" width="50" height="50"/>
 <img src="https://github.com/suenalaba/suenalaba/blob/main/images/275-2750490_apollo-logo-apollo-js-hd-png-download.png" alt="Apollo Logo" width="50" height="50"/>
 <img src="https://github.com/suenalaba/suenalaba/blob/main/images/77040bddec1a6983e42f51c03769425c.png" alt="TypeGraphQL Logo" width="50" height="50"/>
