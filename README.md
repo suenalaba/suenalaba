@@ -2,7 +2,7 @@
 
 ---
 
-⚡ I'm an aspiring full stack developer with experience in the technologies listed in the **toolbox** below.
+⚡ Aspiring full stack developer.
 
 📫 I like to build my random ideas, and explore the endless opportunities with technology.
 
